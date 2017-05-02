@@ -1,0 +1,7 @@
+# Compiled source #
+###################
+*.pyc
+# Folders #
+###########
+__pycache__
+.idea
